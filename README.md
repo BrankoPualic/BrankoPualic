@@ -1,17 +1,11 @@
-## About me
-With three years of full-stack development experience, gained through a combination of formal education and personal study, I offer a blend of technical expertise and creative problem-solving skills. Proficient in front-end and back-end technologies, I craft seamless digital experiences that meet user needs and business objectives. Committed to continuous learning, I embrace new challenges to deliver innovative solutions.
+# Hi, I'm Branko
+Software Engineer with 3 years of professional experience building ERP and CRM systems.
+Focused on clean design, scalable architecture, and long-term maintainability.
+---
+Designed and delivered end-to-end features across ERP and CRM systems, including application design, implementation, and integration.
+Contributed to architectural improvements that made legacy components easier to extend, test, and maintain.
 
-## Technologies
-- Angular
-- C#
-- .NET Framework
-- ASP.NET Core
-- SQL
-- JavaScript
-- HTML/CSS
-- PHP
-- NodeJS
+Currently working toward becoming a Software Architect and Lead Engineer.
+Experienced collaborating in small and big engineering teams.
 
-## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrankoPualic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrankoPualic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Primarily working in the Microsoft ecosystem: C#/.NET, Azure, relational databases, and Angular (AngularJS & Angular 2+) with TypeScript and JavaScript.
