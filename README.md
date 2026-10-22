@@ -1,6 +1,6 @@
 **Hi, I'm Branko**
 
-Software Engineer with 3 years of professional experience building ERP and CRM systems.
+Software Engineer with 2.5 years of professional experience building ERP and CRM systems.
 Focused on clean design, scalable architecture, and long-term maintainability.
 
 Designed and delivered end-to-end features across ERP and CRM systems, including application design, implementation, and integration.
